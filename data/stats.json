@@ -1,5 +1,5 @@
 {
- "pulled_at": "2026-10-05 22:45 PDT",
+ "pulled_at": "2026-10-05 23:00 PDT",
  "first_day": "2026-09-07",
  "today": "2026-10-05",
  "campaigns": [
@@ -10,7 +10,7 @@
    "spend": 45571.37999999999,
    "clicks": 127940,
    "impressions": 5928695,
-   "leads": 33740,
+   "leads": 33743,
    "sales": 986,
    "revenue": 26952.489999999998
   },
@@ -21,7 +21,7 @@
    "spend": 43282.9,
    "clicks": 114166,
    "impressions": 3938772,
-   "leads": 39077,
+   "leads": 39092,
    "sales": 942,
    "revenue": 25011.0
   },
@@ -32,7 +32,7 @@
    "spend": 32953.82,
    "clicks": 74333,
    "impressions": 2360235,
-   "leads": 24625,
+   "leads": 24626,
    "sales": 590,
    "revenue": 16165.48
   },
@@ -40,10 +40,10 @@
    "name": "TOF | Fall Summit 2026 | General Hooks",
    "label": "General Hooks",
    "stage": "TOF",
-   "spend": 25773.050000000014,
+   "spend": 25773.050000000007,
    "clicks": 42513,
    "impressions": 2198128,
-   "leads": 16042,
+   "leads": 16045,
    "sales": 256,
    "revenue": 6421.5
   },
@@ -51,10 +51,10 @@
    "name": "TOF | Fall Summit 2026 | Grid Photos",
    "label": "Grid Photos",
    "stage": "TOF",
-   "spend": 15495.88999999999,
+   "spend": 15495.889999999989,
    "clicks": 34474,
    "impressions": 1459340,
-   "leads": 11152,
+   "leads": 11153,
    "sales": 473,
    "revenue": 13573.99
   },
@@ -87,7 +87,7 @@
    "spend": 4079.3500000000004,
    "clicks": 5232,
    "impressions": 257297,
-   "leads": 1416,
+   "leads": 1417,
    "sales": 234,
    "revenue": 5761.0
   },
@@ -109,7 +109,7 @@
    "spend": 1705.1200000000001,
    "clicks": 2017,
    "impressions": 115647,
-   "leads": 467,
+   "leads": 468,
    "sales": 210,
    "revenue": 5681.93
   },
@@ -139,7 +139,7 @@
    "name": "TOF | Fall Summit 2026 | Page 2 | ABO",
    "label": "Page 2 | ABO",
    "stage": "TOF",
-   "spend": 733.3100000000001,
+   "spend": 733.3100000000002,
    "clicks": 914,
    "impressions": 28738,
    "leads": 369,
@@ -164,7 +164,7 @@
    "spend": 667.4300000000001,
    "clicks": 8547,
    "impressions": 313428,
-   "leads": 2538,
+   "leads": 2545,
    "sales": 6,
    "revenue": 141.0
   },
@@ -205,7 +205,7 @@
    "name": "TOF | Fall Summit 2026 | Ad Copy Testing",
    "label": "Ad Copy Testing",
    "stage": "TOF",
-   "spend": 419.77000000000004,
+   "spend": 419.7700000000001,
    "clicks": 825,
    "impressions": 34778,
    "leads": 195,
@@ -280,7 +280,7 @@
   },
   {
    "date": "2026-09-08",
-   "spend": 2931.6600000000008,
+   "spend": 2931.66,
    "clicks": 6566,
    "impressions": 245390,
    "leads": 2180,
@@ -343,7 +343,7 @@
   },
   {
    "date": "2026-09-15",
-   "spend": 7689.740000000002,
+   "spend": 7689.74,
    "clicks": 19979,
    "impressions": 762577,
    "leads": 6158,
@@ -379,7 +379,7 @@
   },
   {
    "date": "2026-09-19",
-   "spend": 4954.590000000001,
+   "spend": 4954.589999999999,
    "clicks": 14095,
    "impressions": 551409,
    "leads": 4496,
@@ -406,7 +406,7 @@
   },
   {
    "date": "2026-09-22",
-   "spend": 5773.170000000001,
+   "spend": 5773.170000000002,
    "clicks": 15071,
    "impressions": 595050,
    "leads": 4681,
@@ -424,7 +424,7 @@
   },
   {
    "date": "2026-09-24",
-   "spend": 5715.23,
+   "spend": 5715.2300000000005,
    "clicks": 13640,
    "impressions": 576956,
    "leads": 3965,
@@ -433,7 +433,7 @@
   },
   {
    "date": "2026-09-25",
-   "spend": 5280.329999999999,
+   "spend": 5280.33,
    "clicks": 12101,
    "impressions": 518463,
    "leads": 3531,
@@ -442,7 +442,7 @@
   },
   {
    "date": "2026-09-26",
-   "spend": 5192.910000000001,
+   "spend": 5192.91,
    "clicks": 13265,
    "impressions": 451225,
    "leads": 4338,
@@ -460,7 +460,7 @@
   },
   {
    "date": "2026-09-28",
-   "spend": 7069.299999999997,
+   "spend": 7069.299999999998,
    "clicks": 18979,
    "impressions": 698329,
    "leads": 5858,
@@ -496,7 +496,7 @@
   },
   {
    "date": "2026-10-02",
-   "spend": 8927.020000000002,
+   "spend": 8927.02,
    "clicks": 16698,
    "impressions": 850048,
    "leads": 5490,
@@ -505,7 +505,7 @@
   },
   {
    "date": "2026-10-03",
-   "spend": 7528.05,
+   "spend": 7528.049999999999,
    "clicks": 14554,
    "impressions": 729479,
    "leads": 4791,
@@ -514,7 +514,7 @@
   },
   {
    "date": "2026-10-04",
-   "spend": 8907.76,
+   "spend": 8907.759999999998,
    "clicks": 18474,
    "impressions": 872073,
    "leads": 4844,
@@ -526,7 +526,7 @@
    "spend": 7393.229999999999,
    "clicks": 14459,
    "impressions": 689836,
-   "leads": 5050,
+   "leads": 5082,
    "sales": 198,
    "revenue": 4649.5
   }
@@ -544,7 +544,7 @@
    },
    {
     "date": "2026-09-08",
-    "spend": 2931.6600000000008,
+    "spend": 2931.66,
     "clicks": 6566,
     "impressions": 245390,
     "leads": 2180,
@@ -607,7 +607,7 @@
    },
    {
     "date": "2026-09-15",
-    "spend": 7689.740000000002,
+    "spend": 7689.74,
     "clicks": 19979,
     "impressions": 762577,
     "leads": 6158,
@@ -643,7 +643,7 @@
    },
    {
     "date": "2026-09-19",
-    "spend": 4954.590000000001,
+    "spend": 4954.589999999999,
     "clicks": 14095,
     "impressions": 551409,
     "leads": 4496,
@@ -670,7 +670,7 @@
    },
    {
     "date": "2026-09-22",
-    "spend": 5773.170000000001,
+    "spend": 5773.170000000002,
     "clicks": 15071,
     "impressions": 595050,
     "leads": 4681,
@@ -688,7 +688,7 @@
    },
    {
     "date": "2026-09-24",
-    "spend": 5715.23,
+    "spend": 5715.2300000000005,
     "clicks": 13640,
     "impressions": 576956,
     "leads": 3965,
@@ -697,7 +697,7 @@
    },
    {
     "date": "2026-09-25",
-    "spend": 5280.329999999999,
+    "spend": 5280.33,
     "clicks": 12101,
     "impressions": 518463,
     "leads": 3531,
@@ -706,7 +706,7 @@
    },
    {
     "date": "2026-09-26",
-    "spend": 5192.910000000001,
+    "spend": 5192.91,
     "clicks": 13265,
     "impressions": 451225,
     "leads": 4338,
@@ -724,7 +724,7 @@
    },
    {
     "date": "2026-09-28",
-    "spend": 6885.819999999998,
+    "spend": 6885.819999999999,
     "clicks": 18714,
     "impressions": 684627,
     "leads": 5816,
@@ -760,7 +760,7 @@
    },
    {
     "date": "2026-10-02",
-    "spend": 8733.700000000003,
+    "spend": 8733.7,
     "clicks": 16472,
     "impressions": 836661,
     "leads": 5428,
@@ -769,7 +769,7 @@
    },
    {
     "date": "2026-10-03",
-    "spend": 7366.55,
+    "spend": 7366.549999999999,
     "clicks": 14370,
     "impressions": 717746,
     "leads": 4733,
@@ -790,7 +790,7 @@
     "spend": 7121.289999999999,
     "clicks": 14154,
     "impressions": 671350,
-    "leads": 4967,
+    "leads": 4998,
     "sales": 166,
     "revenue": 3924.5
    }
@@ -864,7 +864,7 @@
     "spend": 271.94,
     "clicks": 305,
     "impressions": 18486,
-    "leads": 83,
+    "leads": 84,
     "sales": 32,
     "revenue": 725.0
    }
